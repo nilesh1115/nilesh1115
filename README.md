@@ -88,15 +88,6 @@ I'm a passionate Full Stack Developer with expertise in building scalable web ap
 
 ---
 
-## 🔥 Contribution Heatmap & Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/nilesh1115/nilesh1115/blob/output/github-snake.svg)
-
-</div>
-
----
 
 ## 📫 Let's Connect!
 
