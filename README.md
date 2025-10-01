@@ -90,8 +90,6 @@ I'm a passionate Full Stack Developer with expertise in building scalable web ap
 
 ## 🔥 Contribution Heatmap & Snake
 
-## 🔥 Contribution Heatmap & Snake
-
 <div align="center">
   
 ![Snake animation](https://github.com/nilesh1115/nilesh1115/blob/output/github-snake.svg)
@@ -105,18 +103,11 @@ I'm a passionate Full Stack Developer with expertise in building scalable web ap
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-nikam-99b338214/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/nilesh1115](https://github.com/nilesh1115))
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilesh1115)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nileshnikam0501@example.com)
 
 </div>
 
 ---
 
-
-
 **Thanks for visiting! Feel free to explore my repositories and get in touch!** ✨
-
-</div>
-
----
-
